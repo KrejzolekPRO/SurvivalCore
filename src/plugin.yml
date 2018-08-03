@@ -1,0 +1,26 @@
+main: pl.krejzolekpro.rawcore.RawCorePlugin
+name: rawCore
+version: 1.6
+author: KrejzolekPRO
+
+commands:
+  sklep:
+    aliases: [shop, boosters, booster]
+  oregenerator:
+  rudy:
+    aliases: ore
+  challenge:
+    aliases: wyzwanie
+  gamemode:
+    aliases: gm
+  god:
+  vanish:
+    aliases: v
+  teleport:
+    aliases: tp
+  fly:
+    aliases: latanie
+  help:
+    aliases: pomoc
+  helpop:
+    aliases: pomocadmin
